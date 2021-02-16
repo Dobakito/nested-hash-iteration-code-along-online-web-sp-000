@@ -19,7 +19,6 @@ def remove_strawberry(contacts)
     if name == "freddy Mercury"
       contact_details_hash.each do |key, value|
         binding.pry 
-      end
     end
-  end
-end
+   end
+end    
